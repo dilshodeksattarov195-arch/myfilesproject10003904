@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcpdate",
+        "uuid": 8674688,
+        "checksum": "1fgdti"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
